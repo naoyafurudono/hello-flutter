@@ -3,6 +3,10 @@
 A new Flutter project.
 <https://www.flutter-study.dev/> これをみつつAndroidで薄いUIを作れるようになります。
 
+## メモメモ
+
+flutterの状態管理、reactに似てそう？
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
