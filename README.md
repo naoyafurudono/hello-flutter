@@ -1,6 +1,7 @@
 # hello
 
 A new Flutter project.
+<https://www.flutter-study.dev/> これをみつつAndroidで薄いUIを作れるようになります。
 
 ## Getting Started
 
