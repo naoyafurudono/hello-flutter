@@ -5,7 +5,8 @@ A new Flutter project.
 
 ## メモメモ
 
-flutterの状態管理、reactに似てそう？
+- flutterの状態管理、reactに似てそう？
+- いや、buildとかあるからもっと低レベルなところまで書くのか？
 
 ## Getting Started
 
